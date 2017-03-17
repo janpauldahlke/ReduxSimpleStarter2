@@ -2,6 +2,6 @@
 
 ###run it like this
 
-`npm install
+`npm install \n
 npm start
 `
