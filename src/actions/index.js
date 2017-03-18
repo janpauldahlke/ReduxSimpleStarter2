@@ -6,9 +6,11 @@
 //this newly state is piped into application state
 //app state forces re-render
 
-// connect
-//import from '';
-
 export function selectBook (book) {
-  console.log('A book has been selected', book.title);
+  //console.log('A book has been selected', book.title);
+
+  return {
+    type: 'BOOK_SELECTED', // type is possible as variable to not only string
+    paylod: book
+  }
 }
