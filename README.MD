@@ -1,4 +1,4 @@
-#checking out redux by coding a tinder-clone
+#checking out redux by coding a little bookstore
 
 #run it like this
 
